@@ -16,4 +16,6 @@ Features
 - CSS
 - JavaScript
 
+- to see the project live preview https://faijal-ali.github.io/portfolio/
+
 
